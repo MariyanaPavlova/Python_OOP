@@ -1,2 +1,2 @@
 # Python_OOP
-SoftUni course
+Learning Python course from SoftUni
